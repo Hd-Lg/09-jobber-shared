@@ -1,5 +1,5 @@
 {
-  "name": "09-jobber-shared",
+  "name": "@Hd-Lg/09-jobber-shared",
   "version": "1.0.0",
   "description": "Helper library for Jobber app",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hd-Lg/jobber-shared.git"
+    "url": "git+https://github.com/Hd-Lg/09-jobber-shared.git"
   },
   "exports": {
     ".": {
