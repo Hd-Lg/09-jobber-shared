@@ -1,5 +1,5 @@
 {
-  "name": "@Hd-Lg/09-jobber-shared",
+  "name": "@hd-lg/09-jobber-shared",
   "version": "1.0.0",
   "description": "Helper library for Jobber app",
   "main": "index.js",
